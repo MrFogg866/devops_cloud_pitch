@@ -1,3 +1,10 @@
+
+# Devops & Cloud 
+
+![devops](img/devops.png)
+
+
+
 ## What is DevOps?
 
 -	Development and Opertations
